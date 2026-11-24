@@ -1,0 +1,6 @@
+{
+  "name": "Student Management System",
+  "description": "Full-stack Student Management System with React, Express, and SQLite supporting Create, Read, Update, and Delete operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
